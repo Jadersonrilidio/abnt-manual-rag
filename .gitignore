@@ -3,3 +3,7 @@ chunks.pkl
 embeddings.pkl
 faiss.index
 __pycache__
+venv/
+chunks_local.pkl
+embeddings_local.pkl
+faiss_local.index
