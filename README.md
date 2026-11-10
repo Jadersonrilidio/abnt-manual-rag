@@ -16,6 +16,7 @@ Summary index:
 - [Run the interactive assistant](#run-the-interactive-assistant)
 - [Search the manual without Copilot](#search-the-manual-without-copilot)
 - [How it works](#how-it-works)
+- [Acknowledgment](#acknowledgment)
 
 ## What it can do
 
@@ -169,3 +170,11 @@ interactive console.
 Answers depend on the contents of the included manual and on the passages
 retrieved for each query. They are a practical aid for navigating that source,
 not a substitute for checking current standards or institution-specific rules.
+
+## Acknowledgment
+
+This project was originally based on
+[genai-rag by Samuel Cardoso](https://github.com/samuelcardoso/genai-rag) and
+has since been modified and extended. The original repository does not specify
+a license. This acknowledgment is attribution only; it does not grant
+permission to reuse the original project or imply endorsement by its author.
